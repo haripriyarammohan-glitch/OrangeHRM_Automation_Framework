@@ -1,0 +1,208 @@
+2026-07-04 21:54:28 INFO  LoggerUtility - Execution Started
+2026-07-04 21:55:07 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-04 21:55:13 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-04 21:55:14 INFO  LoggerUtility - Execution Finished
+2026-07-05 11:49:39 INFO  LoggerUtility - Execution Started
+2026-07-05 11:50:22 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:50:25 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 11:51:00 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:51:02 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 11:51:39 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:51:42 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 11:52:16 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:52:19 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 11:52:19 INFO  LoggerUtility - Execution Finished
+2026-07-05 11:57:44 INFO  LoggerUtility - Execution Started
+2026-07-05 11:58:21 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:58:27 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 11:59:02 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:59:08 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 11:59:08 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_11-59-08.png
+2026-07-05 11:59:48 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 11:59:56 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 11:59:56 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_11-59-56.png
+2026-07-05 12:00:36 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:00:42 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:00:42 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-00-42.png
+2026-07-05 12:00:42 INFO  LoggerUtility - Execution Finished
+2026-07-05 12:02:45 INFO  LoggerUtility - Execution Started
+2026-07-05 12:02:45 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:02:46 INFO  LoggerUtility - Execution Finished
+2026-07-05 12:03:22 INFO  LoggerUtility - Execution Started
+2026-07-05 12:03:23 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:03:23 INFO  LoggerUtility - Execution Finished
+2026-07-05 12:05:36 INFO  LoggerUtility - Execution Started
+2026-07-05 12:06:11 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:06:18 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:06:57 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:07:03 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:07:03 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-07-03.png
+2026-07-05 12:07:41 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:07:49 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:07:49 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-07-49.png
+2026-07-05 12:08:18 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:08:23 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:08:23 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-08-23.png
+2026-07-05 12:08:24 INFO  LoggerUtility - Execution Finished
+2026-07-05 12:14:06 INFO  LoggerUtility - Execution Started
+2026-07-05 12:14:48 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:14:56 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:15:34 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:15:36 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:16:13 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:16:16 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:16:49 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:16:51 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:16:52 INFO  LoggerUtility - Execution Finished
+2026-07-05 12:18:15 INFO  LoggerUtility - Execution Started
+2026-07-05 12:18:56 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:19:05 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 12:19:41 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:19:49 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:19:49 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-19-49.png
+2026-07-05 12:20:26 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:20:32 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:20:33 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-20-32.png
+2026-07-05 12:21:08 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 12:21:14 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 12:21:15 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_12-21-14.png
+2026-07-05 12:21:15 INFO  LoggerUtility - Execution Finished
+2026-07-05 13:48:13 INFO  LoggerUtility - Execution Started
+2026-07-05 13:48:53 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 13:48:56 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 13:49:34 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 13:49:37 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 14:14:45 INFO  LoggerUtility - Execution Started
+2026-07-05 14:15:22 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:15:26 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 14:15:30 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_14-15-26.png
+2026-07-05 14:16:06 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:16:09 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 14:16:15 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_14-16-09.png
+2026-07-05 14:16:55 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:16:58 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 14:17:03 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_14-16-58.png
+2026-07-05 14:24:32 INFO  LoggerUtility - Execution Started
+2026-07-05 14:25:10 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:25:18 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 14:25:54 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:25:57 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 14:26:37 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:26:40 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 14:26:44 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_14-26-40.png
+2026-07-05 14:27:23 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:27:26 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 14:27:56 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:27:59 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 14:33:47 INFO  LoggerUtility - Execution Started
+2026-07-05 14:34:25 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 14:34:35 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 14:43:22 INFO  LoggerUtility - Execution Started
+2026-07-05 14:43:36 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:12:18 INFO  LoggerUtility - Execution Started
+2026-07-05 15:12:18 INFO  LoggerUtility - Execution Started
+2026-07-05 15:12:32 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:12:33 INFO  LoggerUtility - Test Started : verifyHomePage
+2026-07-05 15:12:33 INFO  LoggerUtility - Test Passed : verifyHomePage
+2026-07-05 15:12:33 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:12:36 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 15:12:49 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:12:53 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:45 INFO  LoggerUtility - Execution Started
+2026-07-05 15:30:45 INFO  LoggerUtility - Execution Started
+2026-07-05 15:30:45 INFO  LoggerUtility - Execution Started
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:30:50 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:30:51 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:31:00 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:31:04 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 15:31:16 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:31:19 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:00 INFO  LoggerUtility - Execution Started
+2026-07-05 15:32:00 INFO  LoggerUtility - Execution Started
+2026-07-05 15:32:00 INFO  LoggerUtility - Execution Started
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:03 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:04 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:32:14 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:18 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 15:32:33 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:34 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:32:36 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:32:46 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:33:00 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:33:01 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 15:33:01 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_15-33-01.png
+2026-07-05 15:33:16 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:33:18 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 15:33:18 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_15-33-18.png
+2026-07-05 15:33:33 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:33:34 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 15:33:34 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_15-33-34.png
+2026-07-05 15:33:47 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:33:48 INFO  LoggerUtility - Test Failed : verifyValidLogin
+2026-07-05 15:33:48 INFO  LoggerUtility - Screenshot saved at : Screenshots\verifyValidLogin_2026-07-05_15-33-48.png
+2026-07-05 15:33:49 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:34:28 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:42:28 INFO  LoggerUtility - Execution Started
+2026-07-05 15:42:28 INFO  LoggerUtility - Execution Started
+2026-07-05 15:42:28 INFO  LoggerUtility - Execution Started
+2026-07-05 15:42:31 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:42:31 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:42:31 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:42:40 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:42:44 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 15:42:44 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:44:55 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:44:56 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:44:56 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:46:47 INFO  LoggerUtility - Execution Started
+2026-07-05 15:46:47 INFO  LoggerUtility - Execution Started
+2026-07-05 15:46:47 INFO  LoggerUtility - Execution Started
+2026-07-05 15:46:49 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:46:49 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:46:50 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:47:00 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:47:03 INFO  LoggerUtility - Test Passed : verifyValidLogin
+2026-07-05 15:47:04 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:49:14 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:49:14 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:49:14 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:51:43 INFO  LoggerUtility - Execution Started
+2026-07-05 15:51:45 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:51:45 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:51:45 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:54:09 INFO  LoggerUtility - Execution Started
+2026-07-05 15:54:11 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:54:11 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:54:11 INFO  LoggerUtility - Execution Finished
+2026-07-05 15:54:45 INFO  LoggerUtility - Execution Started
+2026-07-05 15:54:47 INFO  LoggerUtility - Test Started : verifyValidLogin
+2026-07-05 15:54:47 INFO  LoggerUtility - Test Skipped : verifyValidLogin
+2026-07-05 15:54:47 INFO  LoggerUtility - Execution Finished
